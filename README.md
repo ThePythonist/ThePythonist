@@ -1,4 +1,4 @@
-<h1 align="left">A python developer from Iran 👋🐍</h1>
+<h1 align="left">A software engineer from Iran 👋🐍</h1>
 
 ###
 
